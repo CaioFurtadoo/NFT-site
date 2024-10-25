@@ -1,6 +1,6 @@
- # Organo-React
+ # Rocket NFTs
 
-<h1 align="center">Organo-React</h1>
+<h1 align="center">Rocket NFTs</h1>
 
 <p align="center">
  Opa, tudo bem!! Seja bem vindo a mais um projeto meu em react Rocket NFTs, um site responsivo e de mercado real!<br/>
