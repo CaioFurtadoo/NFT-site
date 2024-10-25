@@ -1,8 +1,41 @@
-# React + Vite
+ # Organo-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Organo-React</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+ Opa, tudo bem!! Seja bem vindo a mais um projeto meu em react Rocket NFTs, um site responsivo e de mercado real!<br/>
+<a href="https://github.com/CaioFurtadoo">Veja mais projetos aqui</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+ 
+
+
+https://github.com/user-attachments/assets/11329023-4d50-4985-82cd-ae108acdc4ae
+
+
+
+
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Git e Github
+-   JavaScript
+-   React
+-   Vite
+
+## 🔖 Layout
+
+Feito com ♥ by Caio Furtado
